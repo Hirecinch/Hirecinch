@@ -31,5 +31,7 @@
 <h4>Is Hirecinch free or paid?</h4>
 <p>Hirecinch is a paid service. To view the payment plans we offer, you can go to <a href="https://auth.hirecinch.com/pricing">this link</a>. However, we offer a 14-day free trial for everyone. You can sign-up and use Hirecinch without a credit card for 14 days without any costs incurred.</p>
 
-<h3 align="center">SIGNUP AND START HIRING!</h3>
+<h3 align="center">SIGNUP NOW AND START HIRING!</h3>
 <p align="center"><a href="https://auth.hirecinch.com/signup">Get Started</a></p>
+<p>Powered by <a href="https://www.carteblanche.tech">Carte Blanche Innovation Integrated</a></p>
+
