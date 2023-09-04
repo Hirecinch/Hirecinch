@@ -8,6 +8,7 @@
 <h3>Attract and reach out to applicants who matter!</h3>
 <p>Stop looking for applicants in a hundred different places. With Hirecinch, you can find and attract the right people from a single place!</p>
 <a href="https://www.hirecinch.com/source">View features!</a>
+<img src="4.jpeg"/>
 
 <h3>The easiest way to track & manage applicants!</h3>
 <p>Tracking and managing your jobs and applicants on your fingertips, to get a hassle-free and smooth hiring experience.</p>
