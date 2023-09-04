@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.flex-container {
-  display: flex;
-  background-color: DodgerBlue;
-}
-
-.flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
-</style>
-</head>
-<body>
-
-<h1>Create a Flex Container</h1>
-
-<div class="flex-container">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>  
-</div>
-
-<p>A Flexible Layout must have a parent element with the <em>display</em> property set to <em>flex</em>.</p>
-
-<p>Direct child elements(s) of the flexible container automatically becomes flexible items.</p>
-
-</body>
-</html>
-
-
+<h1 align="center>Hirecinch</h1>
+<h3 align="center>The most intuitive & affordable Applicant Tracking System!</h3>
+<p>All in one hiring software that enables you to attract quality applicants & evaluate them collaboratively so you can find the right fit for your team.</p>
