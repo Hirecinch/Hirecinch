@@ -34,5 +34,5 @@
 <h3>SIGNUP NOW AND START HIRING!</h3>
 <a href="https://auth.hirecinch.com/signup">Get Started</a>
 <br /><br /><br />
-<p>Powered by <a href="https://www.carteblanche.tech">Carte Blanche Innovation Integrated</a></p>
+<p align="right">Powered by <a href="https://www.carteblanche.tech">Carte Blanche Innovation Integrated</a></p>
 
