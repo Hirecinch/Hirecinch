@@ -24,5 +24,5 @@
 <h4>How can I sign-up for Hirecinch?</h4>
 <p>To sign-up for Hirecinch, go to <a href="https://auth.hirecinch.com/signup">this link</a>. Fill out your Name, Company name, Work Email and Password to create an account and start hiring!</p>
 <h4>Is Hirecinch free or paid?</h4>
-<p>Hirecinch is a paid service. To view the payment plans we offer, you can go to <a href="https://www.hirecinch.com/pricing">this link</a>. However, we offer a 14-day free trial for everyone. You can sign-up and use Hirecinch without a credit card for 14 days without any costs incurred.</p>
+<p>Hirecinch is a paid service. To view the payment plans we offer, you can go to <a href="https://auth.hirecinch.com/pricing">this link</a>. However, we offer a 14-day free trial for everyone. You can sign-up and use Hirecinch without a credit card for 14 days without any costs incurred.</p>
 
