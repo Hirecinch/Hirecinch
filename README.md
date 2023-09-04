@@ -7,7 +7,7 @@
   <img src=""/>
 </div>
 <style>
-  .first-class{
+  .first-box{
     display: "flex"  
   }
 </style>
