@@ -1,7 +1,7 @@
 <h1 align="center">
 HIRECINCH
 </h1>
-<div style="flex">
+<div style="flex-container">
   <div>
     <h2>
       The most intuitive & affordable Applicant Tracking System!
