@@ -34,7 +34,6 @@
 <h3>SIGNUP NOW AND START HIRING!</h3>
 <a href="https://auth.hirecinch.com/signup">Get Started</a>
 <br /><br /><br />
-<p align="right">Powered by <a href="https://www.carteblanche.tech">Carte Blanche Innovation Integrated</a></p>
 
 
 
@@ -44,10 +43,6 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
 <!-- links to social media icons -->
@@ -71,4 +66,6 @@
 [2]: https://www.facebook.com/hirecinch
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<p align="right">Powered by <a href="https://www.carteblanche.tech">Carte Blanche Innovation Integrated</a></p>
 
