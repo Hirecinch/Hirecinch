@@ -1,40 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            align-items: center; /* Vertically align content */
-            justify-content: space-between; /* Create space between text and image */
-        }
+# Hirecinch
 
-        .text {
-            flex: 1; /* Allow the text to grow and take available space */
-            padding: 20px;
-        }
+Welcome to Hirecinch! This open-source project is designed to simplify and streamline the hiring process for both employers and job seekers. Whether you're a hiring manager looking to find the perfect candidate or a job seeker searching for your dream job, Hirecinch has you covered.
 
-        .image {
-            flex: 1; /* Allow the image to grow and take available space */
-            padding: 20px;
-        }
+## Table of Contents
 
-        /* Additional styles for image size */
-        .image img {
-            max-width: 100%; /* Ensure the image doesn't exceed the container width */
-            height: auto; /* Maintain the aspect ratio of the image */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="text">
-            <p>Your text goes here. You can add as much text as you need, and the container will adjust accordingly.</p>
-        </div>
-        <div class="image">
-            <img src="your-image.jpg" alt="Your Image">
-        </div>
-    </div>
-</body>
-</html>
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Effortless Job Posting:** Post job openings quickly and easily with our user-friendly interface.
+- **Comprehensive Candidate Search:** Access a vast database of qualified candidates and filter results to find the best fit.
+- **Real-time Communication:** Communicate with applicants directly through our platform.
+- **User Profiles:** Create profiles for both employers and job seekers, providing a comprehensive overview.
+- **Customizable:** Tailor Hirecinch to your specific hiring needs with customizable settings.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed
+- [MongoDB](https://www.mongodb.com/) installed and running
+- [Git](https://git-scm.com/) installed
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hirecinch.git
