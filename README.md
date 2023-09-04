@@ -32,4 +32,4 @@
 <p>Hirecinch is a paid service. To view the payment plans we offer, you can go to <a href="https://auth.hirecinch.com/pricing">this link</a>. However, we offer a 14-day free trial for everyone. You can sign-up and use Hirecinch without a credit card for 14 days without any costs incurred.</p>
 
 <h3 align="center">SIGNUP AND START HIRING!</h3>
-<p align="center"><a href="https://auth.hirecinch.com/signup"></a></p>
+<p align="center"><a href="https://auth.hirecinch.com/signup">Get Started</a></p>
