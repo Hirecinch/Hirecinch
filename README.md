@@ -4,7 +4,7 @@
 <img src="https://uploads-ssl.webflow.com/61b33c9874bfaa2230d313aa/632066bad4027474e41acf27_Resume%20Updated.png"/>
 <a href="https://auth.hirecinch.com/signup">Try for free!</a>
 
-<button>SIGNUP</button>
+<img src="1.jpeg"/>
 
 <h3>Attract and reach out to applicants who matter!</h3>
 <p>Stop looking for applicants in a hundred different places. With Hirecinch, you can find and attract the right people from a single place!</p>
